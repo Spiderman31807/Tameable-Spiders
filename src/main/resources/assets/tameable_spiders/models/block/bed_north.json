@@ -1,0 +1,10 @@
+{
+  "parent": "tameable_spiders:custom/bed_north",
+  "textures": {
+    "all": "block/cobbled_deepslate",
+    "particle": "block/cobbled_deepslate",
+    "0": "tameable_spiders:block/silkweb",
+    "1": "block/cobbled_deepslate"
+  },
+  "render_type": "cutout"
+}
