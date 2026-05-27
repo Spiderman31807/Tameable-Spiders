@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    "aaa",
+    "a  "
+  ],
+  "key": {
+    "a": "minecraft:gold_ingot"
+  },
+  "result": {
+    "id": "tamable_spiders:golden_spider_armor",
+    "count": 1
+  }
+}

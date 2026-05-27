@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tamable_spiders:item/chainmail_spider_armor"
+  }
+}
