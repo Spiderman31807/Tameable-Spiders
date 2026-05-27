@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "unlock_misc_0": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "tameable_spiders:cobweb_1",
+      "tameable_spiders:cobweb_2",
+      "tameable_spiders:cobweb_3",
+      "tameable_spiders:cobweb_4",
+      "tameable_spiders:bed_top",
+      "tameable_spiders:bed_bottom"
+    ]
+  }
+}

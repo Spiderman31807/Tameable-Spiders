@@ -1,0 +1,44 @@
+{
+  "display": {
+    "icon": {
+      "item": "tameable_spiders:venom"
+    },
+    "title": {
+      "translate": "advancements.venom_milker.title"
+    },
+    "description": {
+      "translate": "advancements.venom_milker.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "venom_milker_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tameable_spiders:venom"
+            ],
+            "count": {
+              "min": 1,
+              "max": 9999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "tameable_spiders:poison",
+      "tameable_spiders:poison_long",
+      "tameable_spiders:poison_strong"
+    ]
+  },
+  "parent": "tameable_spiders:root"
+}

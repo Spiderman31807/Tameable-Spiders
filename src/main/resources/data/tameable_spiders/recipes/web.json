@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "tameable_spiders:silk"
+    }
+  },
+  "result": {
+    "item": "tameable_spiders:silk_web",
+    "count": 1
+  }
+}

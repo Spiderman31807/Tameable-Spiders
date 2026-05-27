@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spider_bed",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "tameable_spiders:silk_web"
+    },
+    "b": {
+      "item": "minecraft:cobbled_deepslate"
+    }
+  },
+  "result": {
+    "item": "tameable_spiders:bed",
+    "count": 1
+  }
+}
