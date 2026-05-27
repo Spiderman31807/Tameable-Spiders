@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "attached=true,facing=north,waterlogged=false": {
+      "model": "tameable_spiders:block/bed_south"
+    },
+    "attached=true,facing=east,waterlogged=false": {
+      "model": "tameable_spiders:block/bed_south",
+      "y": 90
+    },
+    "attached=true,facing=south,waterlogged=false": {
+      "model": "tameable_spiders:block/bed_south",
+      "y": 180
+    },
+    "attached=true,facing=west,waterlogged=false": {
+      "model": "tameable_spiders:block/bed_south",
+      "y": 270
+    },
+    "attached=false,facing=north,waterlogged=false": {
+      "model": "tameable_spiders:block/bed_south_unclaimed"
+    },
+    "attached=false,facing=east,waterlogged=false": {
+      "model": "tameable_spiders:block/bed_south_unclaimed",
+      "y": 90
+    },
+    "attached=false,facing=south,waterlogged=false": {
+      "model": "tameable_spiders:block/bed_south_unclaimed",
+      "y": 180
+    },
+    "attached=false,facing=west,waterlogged=false": {
+      "model": "tameable_spiders:block/bed_south_unclaimed",
+      "y": 270
+    },
+    "attached=true,facing=north,waterlogged=true": {
+      "model": "tameable_spiders:block/wet_bed_south"
+    },
+    "attached=true,facing=east,waterlogged=true": {
+      "model": "tameable_spiders:block/wet_bed_south",
+      "y": 90
+    },
+    "attached=true,facing=south,waterlogged=true": {
+      "model": "tameable_spiders:block/wet_bed_south",
+      "y": 180
+    },
+    "attached=true,facing=west,waterlogged=true": {
+      "model": "tameable_spiders:block/wet_bed_south",
+      "y": 270
+    },
+    "attached=false,facing=north,waterlogged=true": {
+      "model": "tameable_spiders:block/wet_bed_south_unclaimed"
+    },
+    "attached=false,facing=east,waterlogged=true": {
+      "model": "tameable_spiders:block/wet_bed_south_unclaimed",
+      "y": 90
+    },
+    "attached=false,facing=south,waterlogged=true": {
+      "model": "tameable_spiders:block/wet_bed_south_unclaimed",
+      "y": 180
+    },
+    "attached=false,facing=west,waterlogged=true": {
+      "model": "tameable_spiders:block/wet_bed_south_unclaimed",
+      "y": 270
+    }
+  }
+}

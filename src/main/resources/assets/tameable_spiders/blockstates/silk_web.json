@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tameable_spiders:block/silk_web"
+    }
+  }
+}
