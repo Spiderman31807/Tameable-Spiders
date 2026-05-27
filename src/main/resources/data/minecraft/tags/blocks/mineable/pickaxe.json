@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "tameable_spiders:bed_south",
+    "tameable_spiders:bed_north"
+  ]
+}

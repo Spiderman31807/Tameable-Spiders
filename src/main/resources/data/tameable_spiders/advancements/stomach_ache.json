@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "tameable_spiders:ache_icon"
+    },
+    "title": {
+      "translate": "advancements.stomach_ache.title"
+    },
+    "description": {
+      "translate": "advancements.stomach_ache.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "stomach_ache_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "tameable_spiders:venom"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "tameable_spiders:venom_milker"
+}

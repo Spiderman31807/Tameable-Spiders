@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "spider",
+    "tameable_spiders:spider",
+    "cave_spider",
+    "tameable_spiders:cave_spider"
+  ]
+}

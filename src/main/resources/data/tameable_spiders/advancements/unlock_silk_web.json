@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "unlock_silk_web_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tameable_spiders:silk_web"
+            ],
+            "count": {
+              "min": 1,
+              "max": 9999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "tameable_spiders:bed_top",
+      "tameable_spiders:bed_bottom",
+      "tameable_spiders:cobweb_1",
+      "tameable_spiders:cobweb_2",
+      "tameable_spiders:cobweb_3",
+      "tameable_spiders:cobweb_4"
+    ]
+  }
+}
