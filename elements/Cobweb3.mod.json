@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "cobweb",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SilkWeb"
+      },
+      {
+        "value": "CUSTOM:SilkWeb"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SilkWeb"
+      },
+      {
+        "value": "CUSTOM:SilkWeb"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.WEB"
+    },
+    "name": "cobweb_3",
+    "namespace": "mod"
+  }
+}
