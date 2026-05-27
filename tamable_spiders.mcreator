@@ -1,0 +1,542 @@
+{
+  "mod_elements": [
+    {
+      "name": "AttackTargetInWebGoal",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "attack_target_in_web_goal",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/AttackTargetInWebGoal.java"
+        ]
+      }
+    },
+    {
+      "name": "BegGoal",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "beg_goal",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/BegGoal.java"
+        ]
+      }
+    },
+    {
+      "name": "Events",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "events",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/Events.java"
+        ]
+      }
+    },
+    {
+      "name": "FollowOwnerGoal",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "follow_owner_goal",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/FollowOwnerGoal.java"
+        ]
+      }
+    },
+    {
+      "name": "GoalManager",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "goal_manager",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/GoalManager.java"
+        ]
+      }
+    },
+    {
+      "name": "LivingEntityMixin",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "living_entity_mixin",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/LivingEntityMixin.java"
+        ]
+      }
+    },
+    {
+      "name": "MoveToSittingPosGoal",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "move_to_sitting_pos_goal",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/MoveToSittingPosGoal.java"
+        ]
+      }
+    },
+    {
+      "name": "NearestAttackableTargetGoalMixin",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "nearest_attackable_target_goal_mixin",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/NearestAttackableTargetGoalMixin.java"
+        ]
+      }
+    },
+    {
+      "name": "OwnerHurtByTargetGoal",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "owner_hurt_by_target_goal",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/OwnerHurtByTargetGoal.java"
+        ]
+      }
+    },
+    {
+      "name": "OwnerHurtTargetGoal",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "owner_hurt_target_goal",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/OwnerHurtTargetGoal.java"
+        ]
+      }
+    },
+    {
+      "name": "ServerSyncFixPacket",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "server_sync_fix_packet",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/ServerSyncFixPacket.java"
+        ]
+      }
+    },
+    {
+      "name": "SitWhenOrderedToGoal",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "sit_when_ordered_to_goal",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/SitWhenOrderedToGoal.java"
+        ]
+      }
+    },
+    {
+      "name": "SpiderArmorItem",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "spider_armor_item",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/SpiderArmorItem.java"
+        ]
+      }
+    },
+    {
+      "name": "SpiderArmorLayer",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "spider_armor_layer",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/SpiderArmorLayer.java"
+        ]
+      }
+    },
+    {
+      "name": "SpiderArmorModel",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "spider_armor_model",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/SpiderArmorModel.java"
+        ]
+      }
+    },
+    {
+      "name": "SpiderAttackGoalMixin",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "spider_attack_goal_mixin",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/SpiderAttackGoalMixin.java"
+        ]
+      }
+    },
+    {
+      "name": "SpiderCollarLayer",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "spider_collar_layer",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/SpiderCollarLayer.java"
+        ]
+      }
+    },
+    {
+      "name": "SpiderItems",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "spider_items",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/SpiderItems.java"
+        ]
+      }
+    },
+    {
+      "name": "SpiderMixin",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "spider_mixin",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/SpiderMixin.java"
+        ]
+      }
+    },
+    {
+      "name": "SpiderModelMixin",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "spider_model_mixin",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/SpiderModelMixin.java"
+        ]
+      }
+    },
+    {
+      "name": "SpiderRendererMixin",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "spider_renderer_mixin",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/SpiderRendererMixin.java"
+        ]
+      }
+    },
+    {
+      "name": "SpiderSaddleLayer",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "spider_saddle_layer",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/SpiderSaddleLayer.java"
+        ]
+      }
+    },
+    {
+      "name": "SpiderSaddleModel",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "spider_saddle_model",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/SpiderSaddleModel.java"
+        ]
+      }
+    },
+    {
+      "name": "SpiderTargetGoalMixin",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "spider_target_goal_mixin",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/SpiderTargetGoalMixin.java"
+        ]
+      }
+    },
+    {
+      "name": "TamableSpider",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "tamable_spider",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/TamableSpider.java"
+        ]
+      }
+    },
+    {
+      "name": "WebPathBlock",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "web_path_block",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/WebPathBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "LeatherSpiderArmor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "leather_spider_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/tamable_spiders/advancement/recipes/leather_spider_armor.json",
+          "src/main/resources/data/tamable_spiders/recipe/leather_spider_armor.json"
+        ]
+      }
+    },
+    {
+      "name": "ChainmailSpiderArmor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "chainmail_spider_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/tamable_spiders/advancement/recipes/chainmail_spider_armor.json",
+          "src/main/resources/data/tamable_spiders/recipe/chainmail_spider_armor.json"
+        ]
+      }
+    },
+    {
+      "name": "IronSpiderArmor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "iron_spider_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/tamable_spiders/recipe/iron_spider_armor.json",
+          "src/main/resources/data/tamable_spiders/advancement/recipes/iron_spider_armor.json"
+        ]
+      }
+    },
+    {
+      "name": "GoldenSpiderArmor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "golden_spider_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/tamable_spiders/recipe/golden_spider_armor.json",
+          "src/main/resources/data/tamable_spiders/advancement/recipes/golden_spider_armor.json"
+        ]
+      }
+    },
+    {
+      "name": "DiamondSpiderArmor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "diamond_spider_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/tamable_spiders/recipe/diamond_spider_armor.json",
+          "src/main/resources/data/tamable_spiders/advancement/recipes/diamond_spider_armor.json"
+        ]
+      }
+    },
+    {
+      "name": "Cobweb",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cobweb",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/cobweb.json",
+          "src/main/resources/data/tamable_spiders/advancement/recipes/cobweb.json"
+        ]
+      }
+    },
+    {
+      "name": "WebPath",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "web_path",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/tamable_spiders/advancement/recipes/web_path.json",
+          "src/main/resources/data/tamable_spiders/recipe/web_path.json"
+        ]
+      }
+    },
+    {
+      "name": "PlayerMixin",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "player_mixin",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/PlayerMixin.java"
+        ]
+      }
+    },
+    {
+      "name": "SpiderData",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "spider_data",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/SpiderData.java"
+        ]
+      }
+    },
+    {
+      "name": "CustomData",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "custom_data",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/CustomData.java"
+        ]
+      }
+    },
+    {
+      "name": "Keybinds",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "keybinds",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/Keybinds.java"
+        ]
+      }
+    },
+    {
+      "name": "EntityMixin",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "entity_mixin",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/EntityMixin.java"
+        ]
+      }
+    },
+    {
+      "name": "ClimbMode",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "climb_mode",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/ClimbMode.java"
+        ]
+      }
+    },
+    {
+      "name": "Animations",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "animations",
+      "metadata": {
+        "files": [
+          "src/main/java/tamable/spiders/Animations.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.tamable_spiders.diamond_spider_armor": "Diamond Spider Armor",
+      "item.tamable_spiders.leather_spider_armor": "Leather Spider Armor",
+      "item.tamable_spiders.golden_spider_armor": "Golden Spider Armor",
+      "item.tamable_spiders.iron_spider_armor": "Iron Spider Armor",
+      "item.tamable_spiders.chainmail_spider_armor": "Chainmail Spider Armor",
+      "block.tamable_spiders.webpath": "Web Path",
+      "spider_players.keybind1": "Disabled",
+      "spider_players.keybind2": "Descend",
+      "spider_players.keybind3": "Float",
+      "spider_players.keybind5": "Accend",
+      "spider_players.keybind6": "Cycle Next",
+      "spider_players.keybind7": "Cycle Previous",
+      "key.categories.spider": "Spider Climbing",
+      "spider_players.keybind4": "Vanilla"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/java/tamable/spiders/TamableSpidersMod.java",
+      "src/main/resources/pack.mcmeta"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "tamable_spiders",
+    "modName": "Tamable Spiders",
+    "version": "3.0.1",
+    "author": "Spiderman31807",
+    "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/tameable-spiders",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "serverSideOnly": false,
+    "modPicture": "tameable_spiders_logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "credits": "Spiderman31807",
+    "modElementsPackage": "tamable.spiders"
+  },
+  "mcreatorVersion": 202500342611
+}
