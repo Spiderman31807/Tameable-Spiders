@@ -1,0 +1,32 @@
+{
+  "_fv": 66,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "​",
+    "achievementDescription": "​",
+    "achievementIcon": {
+      "value": "CUSTOM:RootIcon"
+    },
+    "background": "Default",
+    "disableDisplay": true,
+    "showPopup": false,
+    "announceToChat": false,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [
+      "Cobweb1",
+      "Cobweb2",
+      "Cobweb3",
+      "Cobweb4",
+      "BedTop",
+      "BedBottom"
+    ],
+    "rewardFunction": "No function",
+    "rewardXP": 0,
+    "achievementType": "task",
+    "parent": {
+      "value": "No parent: root"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"advancement_trigger\" deletable=\"false\" x=\"40\" y=\"80\"><next><block type=\"tick\"></block></next></block></xml>"
+  }
+}
