@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "id": "tamable_spiders:diamond_spider_armor",
+    "count": 1
+  }
+}

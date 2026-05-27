@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "aa"
+  ],
+  "key": {
+    "a": { "item": "minecraft:iron_ingot" }
+  },
+  "result": {
+    "id": "tamable_spiders:iron_spider_armor",
+    "count": 1
+  }
+}

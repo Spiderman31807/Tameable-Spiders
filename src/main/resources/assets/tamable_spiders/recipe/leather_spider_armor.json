@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "id": "tamable_spiders:leather_spider_armor",
+    "count": 1
+  }
+}

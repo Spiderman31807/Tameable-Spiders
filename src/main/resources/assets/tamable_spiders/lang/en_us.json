@@ -1,0 +1,16 @@
+{
+  "item.tamable_spiders.diamond_spider_armor": "Diamond Spider Armor",
+  "item.tamable_spiders.leather_spider_armor": "Leather Spider Armor",
+  "item.tamable_spiders.golden_spider_armor": "Golden Spider Armor",
+  "item.tamable_spiders.iron_spider_armor": "Iron Spider Armor",
+  "item.tamable_spiders.chainmail_spider_armor": "Chainmail Spider Armor",
+  "block.tamable_spiders.webpath": "Web Path",
+  "spider_players.keybind1": "Disabled",
+  "spider_players.keybind2": "Descend",
+  "spider_players.keybind3": "Float",
+  "spider_players.keybind5": "Accend",
+  "spider_players.keybind6": "Cycle Next",
+  "spider_players.keybind7": "Cycle Previous",
+  "key.categories.spider": "Spider Climbing",
+  "spider_players.keybind4": "Vanilla"
+}

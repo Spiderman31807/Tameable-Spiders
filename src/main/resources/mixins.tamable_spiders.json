@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "package": "tamable.spiders.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "SpiderMixin",
+    "SpiderAttackGoalMixin",
+    "SpiderTargetGoalMixin",
+    "NearestAttackableTargetGoalMixin",
+    "EntityMixin",
+    "LivingEntityMixin",
+    "PlayerMixin"
+  ],
+  "client": [
+    "SpiderModelMixin",
+    "SpiderRendererMixin"
+  ],
+  "minVersion": "0.8"
+}
