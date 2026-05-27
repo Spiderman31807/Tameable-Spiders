@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "tameable_spiders:block/silkweb",
+    "particle": "tameable_spiders:block/silkweb"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "tameable_spiders:custom/bed_item",
+  "textures": {
+    "web": "tameable_spiders:block/cobweb",
+    "stone": "tameable_spiders:block/cobbled_deepslate",
+    "particle": "tameable_spiders:item/spiderface"
+  }
+}
