@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "tameable_spiders:exterminator_icon"
+    },
+    "title": {
+      "translate": "advancements.exterminator.title"
+    },
+    "description": {
+      "translate": "advancements.exterminator.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "exterminator_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "tameable_spiders:pest_control"
+}

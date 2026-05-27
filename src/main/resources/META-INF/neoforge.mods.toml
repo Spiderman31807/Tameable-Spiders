@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[2,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="tameable_spiders"
+version="2.0.7"
+displayName="Tameable Spiders"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/tameable-spiders"
+logoFile="logo.png"
+credits="Spiderman31807"
+authors="Spiderman31807"
+description="a Mod that makes Spiders Tamable (way more complex then that, but thats the quick description)"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.tameable_spiders]]
+    modId="neoforge"
+    type="required"
+    versionRange="[20.6.119,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.tameable_spiders]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.20.6]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

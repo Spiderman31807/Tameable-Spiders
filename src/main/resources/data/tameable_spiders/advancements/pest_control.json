@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "tameable_spiders:pest_icon"
+    },
+    "title": {
+      "translate": "advancements.pest_control.title"
+    },
+    "description": {
+      "translate": "advancements.pest_control.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "pest_control_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "tameable_spiders:root"
+}

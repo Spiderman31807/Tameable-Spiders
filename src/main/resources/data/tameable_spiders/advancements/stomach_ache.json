@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "tameable_spiders:ache_icon"
+    },
+    "title": {
+      "translate": "advancements.stomach_ache.title"
+    },
+    "description": {
+      "translate": "advancements.stomach_ache.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "stomach_ache_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "tameable_spiders:deleted_mod_element"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "tameable_spiders:vemon_milker"
+}

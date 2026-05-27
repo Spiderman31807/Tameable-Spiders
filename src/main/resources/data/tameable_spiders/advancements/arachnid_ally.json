@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "tameable_spiders:ally_icon"
+    },
+    "title": {
+      "translate": "advancements.arachnid_ally.title"
+    },
+    "description": {
+      "translate": "advancements.arachnid_ally.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "arachnid_ally_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "tameable_spiders:root"
+}
