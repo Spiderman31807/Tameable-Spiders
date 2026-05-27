@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cobweb",
+        "1": "cobbled_deepslate"
+      },
+      "name": "default"
+    }
+  }
+}
